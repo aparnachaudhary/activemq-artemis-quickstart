@@ -1,0 +1,14 @@
+== ActiveMQ Artemis Recipes ==
+
+This project provides sample recipes for usage of ActiveMQ Artemis JMS broker.
+
+=== Requirements: ===
+* Apache Maven version 3
+* WildFly 10
+* ActiveMQ Artemis 1.0.2
+* JDK 8
+
+=== Licensing and Copyright: ===
+
+The project is licensed under the http://www.apache.org/licenses/LICENSE-2.0[Apache License, Version 2.0]
+

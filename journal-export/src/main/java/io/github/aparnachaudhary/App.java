@@ -4,6 +4,8 @@ import org.apache.activemq.artemis.cli.commands.tools.XmlDataExporter;
 
 /**
  * Print JMS Journal in XML format
+ * 
+ * @author Aparna Chaudhary
  */
 public class App {
 
